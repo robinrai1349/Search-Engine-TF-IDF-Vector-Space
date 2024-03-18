@@ -54,4 +54,4 @@ To customise, open the respective files (`index.py` and `search.py`) and toggle 
 
 ## System Evaluation
 
-Refer to the provided flyer and presentation for a detailed analysis of the system's performance and experiements conducted.
+Refer to the provided flyer for a detailed analysis of the system's performance and experiements conducted.
